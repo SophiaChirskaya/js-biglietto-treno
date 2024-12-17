@@ -3,3 +3,14 @@
 // - va applicato uno sconto del 20% per i minorenni
 // - va applicato uno sconto del 40% per gli over 65.
 // - L’output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo).
+
+
+//chiedere all'utente quanti km vuole percorrere
+//chiedere l'età
+//moltiplico i km per 0.21
+//se l'utente è minorenne applico lo sconto del 20%
+//se l'utente è over 65 applico lo sconto del 40%
+//se non è compreso in nessuno dei due casi precedenti ritorno il prezzo base
+
+
+
